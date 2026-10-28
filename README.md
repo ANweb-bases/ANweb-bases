@@ -28,7 +28,10 @@
 
 ## Проекты
 
-- [Портфолио: 10 демо-сайтов и Telegram-бот](https://github.com/ANweb-bases/progfarm-portfolio) — [смотреть онлайн](https://anweb-bases.github.io/progfarm-portfolio/)
+- [Сайт-визитка ProgFarm](https://anweb-bases.github.io/progfarm-portfolio/01-progfarm/progfarm.html) — услуги, проекты и установка приложений
+- [Счёт](https://anweb-bases.github.io/progfarm-portfolio/02-schet/schet.html), [DevKit](https://anweb-bases.github.io/progfarm-portfolio/03-devkit/devkit.html), [ПроФинанс](https://anweb-bases.github.io/progfarm-portfolio/04-profinance/profinance.html) — рабочие веб-инструменты
+- [HabitFlow, ClipFlow, Копилка](https://github.com/ANweb-bases/progfarm-portfolio/releases/latest) — приложения для Windows (.exe)
+- [Исходники всего портфолио](https://github.com/ANweb-bases/progfarm-portfolio)
 - [hearth-bean-shop](https://github.com/ANweb-bases/hearth-bean-shop) — ASP.NET Core MVC, EF Core, SQL Server
 - [medexpert-access-portfolio](https://github.com/ANweb-bases/medexpert-access-portfolio) — база данных Microsoft Access
 - [dota-stats](https://github.com/ANweb-bases/dota-stats)
