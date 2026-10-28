@@ -3,8 +3,10 @@
 **Сайты, Telegram-боты и базы данных на заказ.** Цены от 1 500 ₽.
 
 [![Сайт](https://img.shields.io/badge/Сайт-ProgFarm-b6ff3b?style=for-the-badge&labelColor=0b0f0c)](https://anweb-bases.github.io/progfarm-portfolio/01-progfarm/progfarm.html)
-[![Telegram](https://img.shields.io/badge/Telegram-@rivvva__la__viddda-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rivvva_la_viddda)
+[![Бот](https://img.shields.io/badge/Заказ_и_оплата-@ProgFarmBot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ProgFarmBot)
 [![Почта](https://img.shields.io/badge/Email-tolyan.berd2008@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tolyan.berd2008@gmail.com)
+
+Заказ и оплата — через бота [@ProgFarmBot](https://t.me/ProgFarmBot). Личный Telegram [@rivvva_la_viddda](https://t.me/rivvva_la_viddda) — только для развёрнутых и индивидуальных вопросов.
 
 ## Услуги
 
