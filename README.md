@@ -6,7 +6,7 @@
 [![Бот](https://img.shields.io/badge/Заказ_и_оплата-@ProgFarmBot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ProgFarmBot)
 [![Почта](https://img.shields.io/badge/Email-progfarm604@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:progfarm604@gmail.com)
 
-Заказ и оплата — через бота [@ProgFarmBot](https://t.me/ProgFarmBot). Личный Telegram [@boombap_lo](https://t.me/boombap_lo) — только для развёрнутых и индивидуальных вопросов.
+Заказ и оплата — через бота [@ProgFarmBot](https://t.me/ProgFarmBot). Личный Telegram [@rivvva_la_viddda](https://t.me/rivvva_la_viddda) — только для развёрнутых и индивидуальных вопросов.
 
 ## Услуги
 
