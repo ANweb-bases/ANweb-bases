@@ -29,6 +29,7 @@
 ## Проекты
 
 - [Сайт-визитка ProgFarm](https://anweb-bases.github.io/progfarm-portfolio/01-progfarm/progfarm.html) — услуги, проекты и установка приложений
+- [Лендинг, визитка, магазин](https://anweb-bases.github.io/progfarm-portfolio/01-progfarm/progfarm.html#projects), демо ботов, вёрстка, доработка и починка сайтов, схемы и отчёты по базам данных — по проекту на каждую услугу
 - [Счёт](https://anweb-bases.github.io/progfarm-portfolio/02-schet/schet.html), [DevKit](https://anweb-bases.github.io/progfarm-portfolio/03-devkit/devkit.html), [ПроФинанс](https://anweb-bases.github.io/progfarm-portfolio/04-profinance/profinance.html) — рабочие веб-инструменты
 - [HabitFlow, ClipFlow, Копилка, Night City Build Advisor](https://github.com/ANweb-bases/progfarm-portfolio/releases/latest) — приложения для Windows (.exe)
 - [Исходники всего портфолио](https://github.com/ANweb-bases/progfarm-portfolio)
